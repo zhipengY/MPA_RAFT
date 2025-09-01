@@ -1,5 +1,5 @@
 # MPA-RAFT: Motion Perception Attention for Particle Image Velocimetry
-This repository contains the source code for our optical flow estimation method:
+This repository contains the source code for our PIV estimation method:
 [MPA-RAFT: Motion Perception Attention for Particle Image Velocimetry](https://ieeexplore.ieee.org/document/11145125)
 
 Zhipeng Yang;Jialiang Chi;Hao Du;Jinjun Wang;Zhiqiang Wang;Dongdong Zhang
